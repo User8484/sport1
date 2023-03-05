@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sport</string>
+    <string name="btn_addActivity">Додати заняття</string>
+    <string name="add_workout_name">Назва заняття</string>
+    <string name="cancel">Ні</string>
+    <string name="OK">Так</string>
+</resources>
